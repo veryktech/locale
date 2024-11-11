@@ -1,8 +1,8 @@
 {
-    "name": "avzer/locale",
+    "name": "veryktech/locale",
     "type": "library",
     "description": "global locale",
-    "homepage": "https://github.com/avzer/locale",
+    "homepage": "https://github.com/veryktech/locale",
     "license": "MIT",
     "support": {
         "issues": "https://github.com/avzer/locale/issues"
