@@ -1,0 +1,18 @@
+{
+    "name": "veryktech/locale",
+    "type": "library",
+    "description": "global locale",
+    "homepage": "https://github.com/veryktech/locale",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/veryktech/locale/issues"
+    },
+    "authors": [
+        {
+            "name": "Wei",
+            "email": "ghostwei@gmail.com",
+            "homepage": "https://github.com/veryktech",
+            "role": "Developer"
+        }
+    ]
+}
